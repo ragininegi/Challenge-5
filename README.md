@@ -43,8 +43,8 @@ An API key and Secret Key from [Alpaca](https://app.alpaca.markets/brokerage/new
 
 ## Contributors
 Ragini Negi  
-Email : snegiragini16@gmail.com 
-LinkedIn:https://www.linkedin.com/in/ragininegi/
+Email : negiragini16@gmail.com 
+LinkedIn : https://www.linkedin.com/in/ragininegi/
 
 ---
 
